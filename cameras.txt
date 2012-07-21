@@ -1,0 +1,2 @@
+shot1Camera1:1:3
+shot1Camera2:361:363
