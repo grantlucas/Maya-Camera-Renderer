@@ -2,7 +2,7 @@
 
 Provides a way to quickly render out specific frames from cameras in a Maya scene file.
 
-This script was initially created as the version of Maya at the time, 2011, didn't have a "hands off" way of rendering out multiple camers and frames. It was a manua process of selecting and rendering in the Maya interface. This meant you couldn't leave it running without intervention.
+This script was initially created as the version of Maya at the time, 2011, didn't have a "hands off" way of rendering out multiple camers and frames. It was a manual process of selecting and rendering in the Maya interface. This meant you couldn't leave it running without intervention.
 
 Had this script sitting around on my computer so figured I'd throw it up online incase it's useful for anyone else.
 
